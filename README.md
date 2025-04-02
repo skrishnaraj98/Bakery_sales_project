@@ -1,9 +1,9 @@
-📊 Bakery Sales Analysis
+#📊 Bakery Sales Analysis
 
-🍞 Overview
+###🍞 Overview
 This project analyzes a bakery sales dataset to uncover key trends, best-selling items, customer behavior patterns, and potential business insights. The goal is to explore how sales vary across different times of the day, popular item combinations, and what factors might influence customer choices.
 
-🔍 Key Insights
+###🔍 Key Insights
 ☕ Coffee reigns supreme – It's the top-selling item and drives sales for other products.
 
 🕒 Peak Hours Matter – The bakery sees the most foot traffic in the mornings and late afternoons.
@@ -12,7 +12,7 @@ This project analyzes a bakery sales dataset to uncover key trends, best-selling
 
 📉 Struggling Items – Certain products have consistently low sales—why, and what can be done?
 
-🤔 More Questions Than Answers...
+###🤔 More Questions Than Answers...
 This analysis sparked even more questions:
 
 Can strategic product placement influence customer purchases?
@@ -23,7 +23,7 @@ Does the time of day affect what customers choose to buy?
 
 What role do flavors, colors, and textures play in decision-making?
 
-🛠️ Tools & Technologies
+###🛠️ Tools & Technologies
 Python (Pandas, Matplotlib, Seaborn)
 
 Jupyter Notebook for interactive analysis
@@ -32,7 +32,7 @@ Power BI for advanced visualizations
 
 GitHub for version control
 
-🔗 Related LinkedIn Post
+###🔗 Related LinkedIn Post
 Want a quick summary? Check out my LinkedIn post for key insights: [https://www.linkedin.com/feed/update/urn:li:activity:7309338837753675776/]
 
 💡 Let’s Connect!
