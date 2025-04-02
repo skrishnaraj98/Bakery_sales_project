@@ -1,4 +1,5 @@
 📊 Bakery Sales Analysis
+
 🍞 Overview
 This project analyzes a bakery sales dataset to uncover key trends, best-selling items, customer behavior patterns, and potential business insights. The goal is to explore how sales vary across different times of the day, popular item combinations, and what factors might influence customer choices.
 
